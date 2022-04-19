@@ -1,0 +1,70 @@
+li a:hover {
+  background-color: #152951;
+}
+
+* {
+  scroll-behavior: smooth;
+}
+
+ul {
+  list-style-type: none;
+  left: 0px;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #284a6e;
+  position: fixed;
+  top: 0;
+  width: 100%;
+  display: inline-block;
+  font-size: 20px;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: inline-block;
+  color: #d3eeef;
+  text-align: center;
+  padding: 20px 20px;
+  text-decoration: none;
+}
+.active {
+  background-color: #01909e;
+}
+
+body {
+  background-image: url(../img/vans-banner.jpg);
+  background-repeat: no-repeat;
+  background-size: contain;
+  font-family: Arial;
+}
+
+.text {
+  font-size: 30px;
+  margin-top: 250px;
+  margin-left: 150px;
+  color: #dbf7f8;
+}
+
+.order {
+  font-size: 50px;
+  margin-top: 250px;
+  margin-left: 150px;
+  color: #01909e;
+}
+
+.how-order {
+  font-size: 20px;
+  color: #01909e;
+  margin-top: 50px;
+}
+.box {
+  background-color: #284a6e;
+  margin: 80px 0px 0px 0px;
+  text-align: center;
+  color: #fff;
+  padding: 50px;
+}

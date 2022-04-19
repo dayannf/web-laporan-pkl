@@ -1,0 +1,108 @@
+li a:hover {
+  background-color: #152951;
+}
+
+* {
+  scroll-behavior: smooth;
+}
+
+ul {
+  list-style-type: none;
+  left: 0px;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #284a6e;
+  position: fixed;
+  top: 0;
+  width: 100%;
+  display: inline-block;
+  font-size: 20px;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: inline-block;
+  color: #d3eeef;
+  text-align: center;
+  padding: 20px 20px;
+  text-decoration: none;
+}
+.active {
+  background-color: #01909e;
+}
+
+body {
+  
+  font-family: Arial;
+}
+
+.promosi {
+  margin-left: 290px;
+  margin-top: 100px;
+}
+
+.list-sepatu {
+  margin-left: 480px;
+  margin-top: 100px;
+  font-size: 50px;
+  color: #01909e;
+}
+
+.price1 {
+  margin-left: 30px;
+  color: #01909e;
+}
+
+.price2 {
+  margin-top: -70px;
+  margin-left: 350px;
+  color: #01909e;
+}
+
+.price3 {
+  margin-top: -70px;
+  margin-left: 670px;
+  color: #01909e;
+}
+
+.price4 {
+  margin-top: -70px;
+  margin-left: 980px;
+  color: #01909e;
+}
+
+.price5 {
+    margin-left: 30px;
+    color: #01909e;
+  }
+  
+  .price6 {
+    margin-top: -70px;
+    margin-left: 350px;
+    color: #01909e;
+  }
+  
+  .price7 {
+    margin-top: -70px;
+    margin-left: 670px;
+    color: #01909e;
+  }
+  
+  .price8 {
+    margin-top: -70px;
+    margin-left: 980px;
+    color: #01909e;
+  }
+
+  .box {
+    background-color: #284A6E;
+    margin: 80px 0px 0px 0px;
+    text-align: center;
+    color: #fff;
+    padding: 50px;
+  }
+  
